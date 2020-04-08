@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b43b11ad-a43c-438a-8183-5371e3c4893f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/client/package.json" />
+    <dismissed value="$PROJECT_DIR$/server/package.json" />
+    <dismissed value="$PROJECT_DIR$/worker/package.json" />
+  </component>
+  <component name="ProjectId" id="1Zfvd3uLanHdVOm8YgqSToEUStq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nginx" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guilhem.cantegrel\Desktop\docker-images\complex\nginx" />
+      <recent name="C:\Users\guilhem.cantegrel\Desktop\docker-images\complex\client" />
+      <recent name="C:\Users\guilhem.cantegrel\Desktop\docker-images\complex\server" />
+      <recent name="C:\Users\guilhem.cantegrel\Desktop\docker-images\complex\worker" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b43b11ad-a43c-438a-8183-5371e3c4893f" name="Default Changelist" comment="" />
+      <created>1585243047066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585243047066</updated>
+      <workItem from="1585243049235" duration="3284000" />
+      <workItem from="1585300881848" duration="3242000" />
+      <workItem from="1585305572833" duration="6312000" />
+      <workItem from="1585571544015" duration="2321000" />
+      <workItem from="1586338010183" duration="1346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="849" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585304187849">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="849" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.687@0.0.1366.687" timestamp="1585304187849" />
+    <state x="391" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1585243054279">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="391" y="171" key="com.intellij.ide.util.TipDialog/0.0.1366.687@0.0.1366.687" timestamp="1585243054279" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585321419315">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.687@0.0.1366.687" timestamp="1585321419315" />
+  </component>
+</project>
