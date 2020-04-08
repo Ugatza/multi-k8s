@@ -13,3 +13,10 @@ after_success:
   - docker build -t ugatza/multi-nginx ./nginx
   - docker build -t ugatza/multi-server ./server
   - docker build -t ugatza/multi-worker ./worker
+  # Log In to docker CLI
+  - echo "$DOCKER_PWD" | docker login -u "$DOCKER_ID" --password-stdin
+  # Push images to Docker Hub
+  - docker push ugatza/multi-client
+  - docker push ugatza/multi-nginx
+  - docker push ugatza/multi-server
+  - docker push ugatza/multi-worker

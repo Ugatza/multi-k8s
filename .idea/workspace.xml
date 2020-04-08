@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43b11ad-a43c-438a-8183-5371e3c4893f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
@@ -31,7 +35,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/client/package.json" />
@@ -75,7 +79,7 @@
       <workItem from="1585300881848" duration="3242000" />
       <workItem from="1585305572833" duration="6312000" />
       <workItem from="1585571544015" duration="2321000" />
-      <workItem from="1586338010183" duration="1346000" />
+      <workItem from="1586338010183" duration="2856000" />
     </task>
     <servers />
   </component>
