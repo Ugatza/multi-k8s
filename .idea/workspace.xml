@@ -63,7 +63,8 @@
       <workItem from="1585571544015" duration="2321000" />
       <workItem from="1586338010183" duration="3269000" />
       <workItem from="1586353775480" duration="1107000" />
-      <workItem from="1586357418791" duration="6557000" />
+      <workItem from="1586357418791" duration="6579000" />
+      <workItem from="1586424007329" duration="815000" />
     </task>
     <servers />
   </component>
@@ -79,6 +80,10 @@
       <screen x="0" y="0" width="1366" height="687" />
     </state>
     <state x="434" y="212" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.687@0.0.1366.687" timestamp="1586359309663" />
+    <state x="462" y="88" key="FileChooserDialogImpl" timestamp="1586424868196">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="462" y="88" key="FileChooserDialogImpl/0.0.1366.687@0.0.1366.687" timestamp="1586424868196" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1586357449398">
       <screen x="0" y="0" width="1366" height="687" />
     </state>
